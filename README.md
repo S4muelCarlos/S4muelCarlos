@@ -9,4 +9,5 @@
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="">
 </div>
 
-![Godot Engine](https://raw.githubusercontent.com/realitix/godot-icon/master/godot-icon-256px.png)
+![Godot Engine](https://godotengine.org/assets/images/logos/godot-icon-256px.png)
+
